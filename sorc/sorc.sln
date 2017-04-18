@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{62A15E4A-76B1-03FE-6DE4-B5C9E55D0753}") = "sorc", "Assembly-CSharp.csproj", "{2D3CDBE7-F774-AA33-1B9A-630DBDBC8C02}"
+EndProject
+Project("{62A15E4A-76B1-03FE-6DE4-B5C9E55D0753}") = "sorc", "Assembly-CSharp-Editor.csproj", "{63127909-4B0D-167F-4B39-AD7EEB9FA2A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D3CDBE7-F774-AA33-1B9A-630DBDBC8C02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D3CDBE7-F774-AA33-1B9A-630DBDBC8C02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D3CDBE7-F774-AA33-1B9A-630DBDBC8C02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D3CDBE7-F774-AA33-1B9A-630DBDBC8C02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63127909-4B0D-167F-4B39-AD7EEB9FA2A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63127909-4B0D-167F-4B39-AD7EEB9FA2A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63127909-4B0D-167F-4B39-AD7EEB9FA2A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63127909-4B0D-167F-4B39-AD7EEB9FA2A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
