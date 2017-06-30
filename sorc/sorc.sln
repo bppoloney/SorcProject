@@ -1,9 +1,9 @@
+﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2008
-
-Project("{62A15E4A-76B1-03FE-6DE4-B5C9E55D0753}") = "sorc", "Assembly-CSharp.csproj", "{2D3CDBE7-F774-AA33-1B9A-630DBDBC8C02}"
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sorc", "Assembly-CSharp.csproj", "{2D3CDBE7-F774-AA33-1B9A-630DBDBC8C02}"
 EndProject
-Project("{62A15E4A-76B1-03FE-6DE4-B5C9E55D0753}") = "sorc", "Assembly-CSharp-Editor.csproj", "{63127909-4B0D-167F-4B39-AD7EEB9FA2A8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sorc", "Assembly-CSharp-Editor.csproj", "{63127909-4B0D-167F-4B39-AD7EEB9FA2A8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
